@@ -20,3 +20,9 @@ python ./src/upm.py get helloworld>=1.5
 ```json
 upm get helloworld>=1.5
 ```
+
+
+## Requirements
+
+  - Python3.X.X
+  - `python-dotenv` __(setup/req.txt)__
