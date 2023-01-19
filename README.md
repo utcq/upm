@@ -26,3 +26,15 @@ upm get helloworld>=1.5
 
   - Python3.X.X
   - `python-dotenv` __(setup/req.txt)__
+  
+## Setup
+
+__Linux:__
+
+After the first execution add `~/.upm/bin/` to the PATH
+
+
+
+__Windows:__
+
+Auto-setup on first execution
