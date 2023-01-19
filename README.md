@@ -11,7 +11,12 @@ This repo contains all you need to install UPM or contribute to the project
 
 ## Usage
 
-*Package installation* 
+### Package Installation
+*Local source* 
 ```json
 python ./src/upm.py get helloworld>=1.5
+```
+*with PATH*
+```json
+upm get helloworld>=1.5
 ```
