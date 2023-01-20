@@ -1,0 +1,14 @@
+{
+    "package": {
+        "name": "helloworld",
+        "version": 1.5,
+        "author": "unity"
+    },
+    "dependencies": {
+        "helloworld": ">=0.7"
+    },
+    "setup": {
+        "posix"  : "",
+        "windows": "echo piscio"
+    }
+}

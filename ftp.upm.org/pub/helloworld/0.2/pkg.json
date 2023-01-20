@@ -1,0 +1,15 @@
+{
+    "package": {
+        "name": "helloworld",
+        "version": 0.2,
+        "author": "unity"
+    },
+    "dependencies": {
+        "upmlib": ">=0.7"
+    },
+    "setup": {
+        "Linux"  : "",
+        "Windows": "",
+        "Darwin" : ""
+    }
+}
